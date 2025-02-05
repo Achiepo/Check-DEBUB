@@ -36,7 +36,7 @@ const App = () => {
       <div className="container">
         <header className="d-flex align-items-center gap-3 mb-4">
           <ClipboardList className="text-primary" size={32} />
-          <h1 className="h3 text-dark">Gestionnaire de Tâches (Debug)</h1>
+          <h1 className="h3 text-dark">Gestionnaire de Tâches</h1>
         </header>
 
         <div className="card shadow-sm mb-4">
